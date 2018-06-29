@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SushiProject</string>
+    <string name="title_activity_shopping_cart">ShoppingCart</string>
 </resources>
